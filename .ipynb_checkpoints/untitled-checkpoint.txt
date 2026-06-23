@@ -1,0 +1,17 @@
+# Dataset - too large, not needed for deployment (model already trained)
+data/raw/
+data/processed/
+
+# Python cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment (if you created one)
+deepfake_env/
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
