@@ -2,7 +2,7 @@
 
 An end-to-end computer vision pipeline that classifies satellite imagery into 10 land-use categories and enhances image quality using classical image processing techniques. Built on Sentinel-2 satellite data (EuroSAT dataset) with a custom CNN, achieving ~90% test accuracy.
 
-**[Live Demo](https://kislay-satellite-classifier.streamlit.app/)** &nbsp;|&nbsp; **[Dataset: EuroSAT](https://github.com/phelber/EuroSAT)** &nbsp;|&nbsp; **[Report a bug](#)**
+**[Live Demo](https://kislay-satellite-classifier.streamlit.app/)** &nbsp;|&nbsp; **[Dataset: EuroSAT](https://github.com/phelber/EuroSAT)** &nbsp;|&nbsp; **[Report a bug](https://github.com/KislayTinker/satellite-image-classification/issues)**
 
 ---
 
